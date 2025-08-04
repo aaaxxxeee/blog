@@ -1,0 +1,21 @@
+baseURL = 'https://aaaxxxeee.github.io/aaxx.ee/'
+languageCode = 'en-us'
+title = 'Alexandre Beuzen'
+theme = "shibui"
+
+[params]
+  author = "Alexandre Beuzen"
+  email = "alexandrebeuz121@gmail.com"
+
+[menu]
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+
+[markup.goldmark.renderer]
+unsafe = true
