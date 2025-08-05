@@ -1,0 +1,44 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "body",
+      "br",
+      "code",
+      "div",
+      "footer",
+      "h1",
+      "h2",
+      "head",
+      "header",
+      "hr",
+      "html",
+      "img",
+      "li",
+      "link",
+      "main",
+      "meta",
+      "nav",
+      "ol",
+      "p",
+      "script",
+      "span",
+      "time",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "back-link",
+      "back-nav",
+      "current",
+      "path-nav",
+      "terminal-nav",
+      "terms-list",
+      "time-list"
+    ],
+    "ids": [
+      "education",
+      "experience"
+    ]
+  }
+}

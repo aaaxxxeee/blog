@@ -1,21 +1,50 @@
 baseURL = 'https://aaaxxxeee.github.io/aaxx.ee/'
 languageCode = 'en-us'
-title = 'Alexandre Beuzen'
+title = 'alexandre beuzen - student @ Concordia university'
 theme = "shibui"
+enableGitInfo = true
 
-[params]
-  author = "Alexandre Beuzen"
-  email = "alexandrebeuz121@gmail.com"
+[params.author]
+name = "Alexandre Beuzen"
+email = "alexandrebeuz121@gmail.com"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  # By default, Goldmark trims unsafe outputs which might prevent some shortcodes from rendering.
+  # It is recommended to set markup.goldmark.renderer.unsafe=true if you encounter problems.
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    noClasses = false
+    tabWidth = 4
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = true
 
 [menu]
   [[menu.main]]
-    name = "Projects"
+    name = "projects"
     url = "/projects/"
     weight = 1
   [[menu.main]]
-    name = "About"
+    name = "about"
     url = "/about/"
     weight = 2
 
-[markup.goldmark.renderer]
-unsafe = true
+[build]
+  writeStats = true
+
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
