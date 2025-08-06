@@ -1,7 +1,7 @@
 :root {
   /* Typography */
   --spacing-base: 1em;
-  --font-family-mono: monospace;
+  --font-family-mono: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
   --font-size-base: 1em;
   --font-size-small: 0.9em;
 
@@ -345,7 +345,7 @@ p > code ::selection {
 /* Image styles */
 img {
   display: block;
-  max-width: 100%;
+  max-width: 50vw;
   height: auto;
   margin: var(--spacing-base) auto;
   border-radius: var(--border-radius);
