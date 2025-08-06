@@ -38,7 +38,9 @@
     ],
     "ids": [
       "education",
-      "experience"
+      "experience",
+      "skills",
+      "work-experience"
     ]
   }
 }
