@@ -1,7 +1,7 @@
 :root {
   /* Typography */
-  --spacing-base: 1em;
-  --font-family-mono: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+  --spacing-base: 1.5em;
+  --font-family-mono: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
   --font-size-base: 1em;
   --font-size-small: 0.9em;
 
@@ -21,7 +21,7 @@
   --color-selection-code-bg: #A6BDE0;
 
   /* Layout */
-  --container-width: 50vw;
+  --container-width: 100ch;
   --border-radius: 3px;
   --gap-base: 1em;
   --gap-small: 0.5em;
@@ -90,7 +90,7 @@ body {
   display: grid;
   grid-template-rows: auto 1fr auto;
   grid-template-columns: minmax(auto, var(--container-width));
-  justify-content: left;
+  justify-content: center;
   padding: var(--spacing-lg);
   gap: var(--spacing-lg);
 }
@@ -345,7 +345,7 @@ p > code ::selection {
 /* Image styles */
 img {
   display: block;
-  max-width: 50vw;
+  max-width: 100ch;
   height: auto;
   margin: var(--spacing-base) auto;
   border-radius: var(--border-radius);
