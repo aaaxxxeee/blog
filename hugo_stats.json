@@ -36,9 +36,9 @@
       "time-list"
     ],
     "ids": [
-      "education",
-      "skills",
-      "work-experience"
+      "--education",
+      "--skills",
+      "--work-experience"
     ]
   }
 }

@@ -2,14 +2,7 @@
 title: "about me"
 ---
 
-
-# skills  
-`language`  
-French - mother tongue   
-English - fluent   
-___
-
-# education  
+# ㉈ ⸻ education  
 `2025 ― 2027`  
 Master of Design  
 Concordia University - (Montréal, QC)
@@ -24,11 +17,26 @@ Collège Stanislas de Montréal
 
 ___
 
-# work experience  
-`2025 ― today`  
-Intern ― Front-end and UI design (Robotics)  
-Ecole Nationale Supérieure des Arts Décoratifs - (France, Paris)
+# ㉉ ⸻ work experience  
+`april 2025 - today`  
+Front-end and UI design (using Touchdesigner and Python)  
+École Nationale Supérieure des Arts Décoratifs - (France, Paris)
 
-`2025 ― 2025`  
+`january ― may 2025`  
 Unreal Engine teaching assistant ― EDM4606  
 Université du Québec à Montréal
+
+___
+
+# ㉊ ⸻ skills  
+```language```  
+French - mother tongue   
+English - fluent  
+
+`software`  
+Touchdesigner (Advanced)  
+Photoshop (Advanced)  
+Unreal Engine (Intermediate)  
+After Effects (Intermediate)  
+
+[Request my CV via e-mail](alexandrebeuz121@gmail.com)
