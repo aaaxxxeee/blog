@@ -21,7 +21,7 @@
   --color-selection-code-bg: #A6BDE0;
 
   /* Layout */
-  --container-width: 100ch;
+  --container-width: 64ch;
   --border-radius: 3px;
   --gap-base: 1em;
   --gap-small: 0.5em;
@@ -345,7 +345,7 @@ p > code ::selection {
 /* Image styles */
 img {
   display: block;
-  max-width: 100ch;
+  max-width: 100%;
   height: auto;
   margin: var(--spacing-base) auto;
   border-radius: var(--border-radius);
