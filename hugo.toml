@@ -1,12 +1,12 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://aaaxxxeee.github.io/aaxx.ee/'
 languageCode = 'en-us'
 title = 'alexandre beuzen'
 theme = "shibui"
 enableGitInfo = true
 
 [params.author]
-name = "Kien Nguyen-Tuan"
-email = "kiennt2609@gmail.com"
+name = "Alexandre Beuzen"
+email = "alexandrebeuz121@gmail.com"
 
 [markup]
   defaultMarkdownHandler = "goldmark"
