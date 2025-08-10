@@ -30,6 +30,7 @@
       "back-link",
       "back-nav",
       "current",
+      "no-underline-media",
       "path-nav",
       "terminal-nav",
       "terms-list",
