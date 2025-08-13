@@ -2,7 +2,6 @@
 title: "plasma waves"
 date: 2024-01-13
 comment: true
-tags: ["projects"]
 ---
 
 Plasma waves is a collaborative and ever-evolving project with multidisciplinary artist Santiago Betancour (a.k.a EscapedMind). 

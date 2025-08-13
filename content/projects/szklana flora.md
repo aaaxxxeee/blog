@@ -2,7 +2,6 @@
 title: "szklana flora"
 date: 2024-09-26
 comment: true
-tags: ["projects"]
 ---
 
 “szklana flora” or “La flore de verre” is a collaborative project made with polish/german producer Jakub Stefaniak (@hellosheg). 

@@ -2,7 +2,7 @@
 title: "laboratoire scénographique - MAPP_MTL x Moment Factory"
 date: 2024-09-29
 comment: true
-tags: ["projects"]
+#tags: ["projects"]
 ---
 
 In September 2024 I had the opportunity to be apart of the small group who worked on the closing party of the MAPP_MTL festival which took place on September 29th 2024 at Moment Factory.
